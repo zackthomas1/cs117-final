@@ -98,4 +98,4 @@ venv.bak/
 _datasets/
 _local_models/
 _submission/
-.zip
+*.zip
