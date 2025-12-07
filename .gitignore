@@ -95,6 +95,7 @@ venv.bak/
 #  you could uncomment the following to ignore the entire vscode folder
 .vscode/
 
-local_models/
-datasets/
+_datasets/
+_local_models/
+_submission/
 .zip
