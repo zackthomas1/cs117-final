@@ -3,6 +3,7 @@
 To access the image datasets and Gaussian model results discussed in the report download them using the following Google Drive links.
 
 [Image dataset](https://drive.google.com/drive/folders/19MRlmXmx0ffbuJVeh4k0dNCZ0hG9IXvn?usp=sharing)
+
 [Guassian Splatting Models](https://drive.google.com/drive/folders/16yVV6iIbjhkexCu5dWQba5YFkfScYJlY?usp=sharing)
 
 # Deploying 3D Gaussian Splatting on Google Cloud Platform (optional)
